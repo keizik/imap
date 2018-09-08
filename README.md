@@ -1,1 +1,1 @@
-# imap
+# How to read email with spring boot and spring integration mail
